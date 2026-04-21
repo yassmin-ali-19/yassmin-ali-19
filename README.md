@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Yassmin 👩‍💻<br><br>I build intelligent systems powered by data and algorithms. With strong foundations in mathematics and software engineering, I specialize in AI, Machine Learning, and Data Science.<br><br>💡 Core Skills:<br>Python | Java | Kotlin | C/C++<br>Machine Learning | Data Analysis | Algorithm Design<br><br>I hope you find these projects insightful and valuable. <br>Contributions, feedback, and discussions are always welcome 😊. 
+Hi, I’m Yassmin 👩‍💻<br><br>I build intelligent systems powered by data and algorithms. With strong foundations in mathematics and software engineering, I specialize in AI, Machine Learning, and Data Science.<br><br>💡 Core Skills:<br>Python | Java | Kotlin | C/C++<br>AI | Machine Learning | Data Analysis | Algorithm Design<br><br>I hope you find these projects insightful and valuable. <br>Contributions, feedback, and discussions are always welcome 😊. 
 
 
 ## 🌐 Socials:
